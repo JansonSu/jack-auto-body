@@ -1,0 +1,5 @@
+{
+  "name": "Jack Sun Auto Body",
+  "description": "A prototype React SPA for an Auto Body shop featuring Paintless Dent Repair, Glass Repair, and Camping Gear, with a LocalStorage-based booking system.",
+  "requestFramePermissions": []
+}
